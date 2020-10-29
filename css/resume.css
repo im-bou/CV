@@ -1,0 +1,30 @@
+html, button, input, select, textarea{
+color: #000;
+}
+html{ font-
+size: 1em; line-
+height: 1.4;}
+.page { 
+  width : 820px;
+  margin : auto;
+  font-size : 16px;
+  font-family: 'Source sans Pro';
+  background-color:#FFCCFF;
+
+}
+img {
+  float: right;
+  width: 150px;
+  height: 150px;
+}
+  .wrapper {
+  margin-right: auto; 
+  margin-left:  auto; 
+
+  max-width: 900px;
+  min-width: 320px;
+
+  padding-right: 10px;
+  padding-left:  10px; 
+}
+

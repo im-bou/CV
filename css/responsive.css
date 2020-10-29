@@ -1,9 +1,9 @@
 @media only screen and (max-width:740px){
-    #wrappper { background : #777;}
+    #wrappper {width: 100%; }
 }
 @media only screen and (max-width:570px){
-    #wrappper { background : #7f7;}
+    #wrappper { width: 100%;}
 }
 @media only screen and (max-width:480px){
-    #wrappper { background : #77f;}
+    #wrappper {width: 100%; }
 }
